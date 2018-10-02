@@ -22,5 +22,17 @@ allowed_directory_count (This means if there are more than the allowed number
     of subdirectories left to check, end the search.)
 
 ## Unit testing
-To run the unit tests after editing the code to make sure the program is still working use 
-jcy_find_file_unit_tests.py
+To run the unit tests after editing the code to make sure the program is still working use: 
+python jcy_find_file_unit_tests.py
+
+The following files must be downloaded to the test directory as well: </br>
+standard_test1.txt </br>
+standard_test2.txt </br>
+
+(If unit testing in a new directory, the following files must be downloaded and in the files 
+you must replace '/Users/juliayoung/Documents/code_exam/' with the current working directory.) </br>
+standard_test3.txt </br>
+Directories_checked_standard.txt </br>
+Directories_left_standard.txt </br>
+Match_standard.csv </br>
+
