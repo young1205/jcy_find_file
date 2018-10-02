@@ -112,4 +112,4 @@ if __name__ == "__main__":
                           begin your search. Substring is the string in the
                           files you are looking for.(Examples '.txt', 'main') """
         print(error_string)
-#Define main function
+
