@@ -1,0 +1,6 @@
+To use this program type:
+                          python jcy_find_file.py directory_location substring
+
+                          Where directory_location is the base location to
+                          begin your search. Substring is the string in the
+                          files you are looking for.(Examples '.txt', 'main') 

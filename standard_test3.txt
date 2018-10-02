@@ -1,0 +1,9 @@
+Entering main function, checking in:/Users/juliayoung/Documents/code_exam/unit_test_temp for:.txt
+/Users/juliayoung/Documents/code_exam/unit_test_temp/sub1
+Currently checking: /Users/juliayoung/Documents/code_exam/unit_test_temp/sub1
+Currently checking: /Users/juliayoung/Documents/code_exam/unit_test_temp/sub0
+Currently checking: /Users/juliayoung/Documents/code_exam/unit_test_temp/sub2
+Currently checking: /Users/juliayoung/Documents/code_exam/unit_test_temp/sub3
+Currently checking: /Users/juliayoung/Documents/code_exam/unit_test_temp/sub4
+Checked 6 directories
+End of search
