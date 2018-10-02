@@ -6,7 +6,7 @@ This version requires python 3
 Author: Julia Young
 Last edit: October 1st, 2018
 
-Usage reguires two arguments.
+Usage reguires two arguments. /n
 Example: python jcy_find_file.py '/Users/juliayoung/Documents/' '.txt'
 
 If a valid directory is set, outputs are as follows:
